@@ -1,0 +1,8 @@
+{
+  "name": "node-fswin",
+  "version": "2.16.501",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true
+}
