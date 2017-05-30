@@ -5,5 +5,8 @@
   "scripts": {
     "install": "node-gyp rebuild"
   },
-  "gypfile": true
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.2.1"
+  }
 }
