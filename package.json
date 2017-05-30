@@ -1,6 +1,7 @@
 {
   "name": "node-fswin",
   "version": "2.16.501",
+  "main": "index.js",
   "scripts": {
     "install": "node-gyp rebuild"
   },
